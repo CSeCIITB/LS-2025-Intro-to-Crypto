@@ -8,7 +8,7 @@ In this section, we explore a few classical ciphers. We then move on to study th
 ## Classical Ciphers
 ### Caesar Cipher
 The Caesar Cipher, famously used by Julius Caesar in wartime (though he technically used a fixed value of the key), is one of the simplest and most popular classical ciphers out there.
-- http://practicalcryptography.com/ciphers/caesar-cipher/
+- https://crypto.interactive-maths.com/caesar-shift-cipher.html
 <details>
 <summary> <strong>EXERCISE:</strong> Decrypt <em>HAAHJR HA KHDU</em> [Caesar; Key=7]</summary>
 <strong>ANSWER:</strong> ATTACK AT DAWN
@@ -16,7 +16,7 @@ The Caesar Cipher, famously used by Julius Caesar in wartime (though he technica
 
 ### ROT13 Cipher
 The ROT13 is nothing but the Caesar cipher with key=13. It’s special because the encryption and decryption functions are the same - making it a ‘mirror cipher’ or a ‘reciprocal cipher’. It’s commonly used to obfuscate answers to newspaper puzzles.
-- http://practicalcryptography.com/ciphers/rot13-cipher/
+- https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,true,13)&input=QUJDRA
 <details>
 <summary> <strong>EXERCISE:</strong> Decrypt <em>EVAT NEBHAQ GUR EBFVR</em> [ROT13]</summary>
 <strong>ANSWER:</strong> RING AROUND THE ROSIE
@@ -32,7 +32,7 @@ The Vigenère Cipher, also known as the Polyalphabetic Cipher, was once consider
 
 ### Atbash Cipher
 If you have ever had to study Mental Ability for any competitive examinations (trauma moments, I know), then you must have met the Atbash Cipher innumerable times!
-- http://practicalcryptography.com/ciphers/atbash-cipher-cipher/
+- https://crypto.interactive-maths.com/atbash-cipher.html
 <details>
 <summary> <strong>EXERCISE:</strong> Decrypt <em>Ivzw Gsv Wz Ermxr Xlwv?</em> [Atbash]</summary>
 <strong>ANSWER:</strong> Read The Da Vinci Code?
@@ -48,7 +48,7 @@ Using frequency analysis to crack the monoalphabetic substitution cipher is Cryp
 
 ### Transposition Ciphers
 Another interesting class of classical ciphers is the transposition ciphers. As the name suggests, they transpose (move around) parts of the plaintext to create the ciphertext.
-- http://practicalcryptography.com/ciphers/columnar-transposition-cipher/
+-https://crypto.interactive-maths.com/simple-transposition-ciphers.html
 
 ### Morse Code
 Morse Code is NOT a cipher! It’s an encoding format, albeit one used quite often in Classical Cryptography.
