@@ -87,5 +87,5 @@ Base64 is a kind of encoding where each character represents one of 64 integers.
 </details>
 
 
-Discussions among students are encouraged and we request you to use the Team on MS Teams for the same.
+Discussions among students are encouraged.
 <p align="center">Created with :heart: by <a href="https://cseciitb.github.io/">CSeC</a></p>
